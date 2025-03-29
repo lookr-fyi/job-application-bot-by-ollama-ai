@@ -8,7 +8,7 @@ _“Simp for one, you’re just thirsty. Flirt with all, you’re a king.”_
 
 ## About JobHuntr.fyi
 
-JobHuntr.fyi is a native macOS desktop app that uses Ollama-powered AI to apply for jobs on LinkedIn—automatically, 24/7. No OpenAI API key required.
+JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for jobs on LinkedIn—automatically, 24/7. No OpenAI API key required.
 
 [![JobHuntr Demo](src/demo.gif)](https://file.notion.so/f/f/e5e10e17-8029-4564-ba10-37f344e3fc89/41d7bb54-f210-4885-b1df-d0856a156b7e/first-demo-added-blur-4k-music.mp4?table=block&id=1c5df946-1ad2-8062-a528-ef6dd8b00bd2&spaceId=e5e10e17-8029-4564-ba10-37f344e3fc89&expirationTimestamp=1743292800000&signature=ZAAuMrkyKBdz_jg1JS6lkNIYEkqZ6bm5XuyWvkeTfKg)
 
@@ -34,18 +34,20 @@ JobHuntr.fyi is a native macOS desktop app that uses Ollama-powered AI to apply 
 
 ## Features
 
-| ✅ Feature           | 💡 Description                                                                 |
-| -------------------- | ------------------------------------------------------------------------------ |
-| 🎯 Auto Apply        | Automatically applies to new jobs 24/7 in the background.                      |
-| 🧠 Smart Filtering   | Skips jobs that don’t match your resume and your custom filter settings.       |
-| 🚫 Company Blacklist | Blacklist specific companies (by default, your past employers are excluded).   |
-| 🧾 AI Reasoning      | View the AI's decision-making process for every job application.               |
-| 🔍 Custom Filters    | Filter jobs using keywords, location, remote preference, categories, and more. |
-| 📎 Show References   | Every answered question includes a reference from your resume or FAQ.          |
-| 🤖 On-Device AI      | Powered by on-device AI (via Ollama).                                          |
-| 📊 Progress Tracking | Saves application progress and tracks unseen FAQs.                             |
-| ⏭️ Skip Questions    | Skips optional questions.                                                      |
-| ⏸️ Pause/Resume      | Pause or resume the AI agent anytime.                                          |
+| ✅ Feature           | 💡 Description                                                                        | Free Plan | Premium Plan ($9.99/mo) |
+| -------------------- | ------------------------------------------------------------------------------------- | :-------: | :---------------------: |
+| 🎯 Auto Apply        | Automatically applies to new jobs 24/7 in the background.                             |    ✅     |           ✅            |
+| 🧠 Smart Filtering   | Skips jobs that don’t match your resume and custom filters.                           |    ✅     |           ✅            |
+| 🚫 Company Blacklist | Exclude specific companies from job applications. Defaults to your past employers.    |    ✅     |           ✅            |
+| 🔍 Custom Filters    | Filter jobs by keywords, location, remote preference, categories, and more.           |    ✅     |           ✅            |
+| 📎 Show References   | Every answered question is backed by content from your resume or FAQs.                |    ✅     |           ✅            |
+| 🧩 FAQ Merge         | Automatically merges similar unseen FAQs to reduce repetition and your workload.      |    ✅     |           ✅            |
+| 🤖 On-Device AI      | All AI runs locally via Ollama. Fast, secure, and private.                            |    ✅     |           ✅            |
+| 📊 Progress Tracking | Saves application history and tracks which FAQs you've seen or answered.              |    ✅     |           ✅            |
+| ⏭️ Skip Questions    | Automatically skips optional or non-critical application questions.                   |    ✅     |           ✅            |
+| ⏸️ Pause/Resume      | Start or stop the auto-apply agent at any time.                                       |    ✅     |           ✅            |
+| 🧾 AI Reasoning      | View the AI's step-by-step decision-making for each application.                      |    ❌     |           ✅            |
+| ⚡ Cloud AI          | Uses a faster cloud-based AI model with improved matching and answering capabilities. |    ❌     |           ✅            |
 
 ## FAQ
 
