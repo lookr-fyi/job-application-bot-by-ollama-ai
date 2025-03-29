@@ -1,6 +1,12 @@
 _“Simp for one, you’re just thirsty. Flirt with all, you’re a king.”_
 
-## Description
+<p align="left">
+  <a href="https://github.com/lookr-fyi/homebrew-jobhuntr/releases/latest/download/JobHuntr.dmg">
+    <img src="https://img.shields.io/badge/Download%20for-macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
+  </a>
+</p>
+
+## About JobHuntr.fyi
 
 JobHuntr.fyi is a native macOS desktop app that uses Ollama-powered AI to apply for jobs on LinkedIn—automatically, 24/7. No OpenAI API key required.
 
@@ -28,14 +34,18 @@ JobHuntr.fyi is a native macOS desktop app that uses Ollama-powered AI to apply 
 
 ## Features
 
-- Automatically applies to new jobs every day in the background.
-- Skips jobs that don’t match your resume.
-- Blacklist specific companies.
-- Filter jobs using keywords, custom criteria, location, remote preference, categories, and more.
-- Powered by on-device AI (via Ollama).
-- Saves application progress and tracks unseen FAQs.
-- Skips optional questions.
-- Pause/resume the AI agent anytime.
+| ✅ Feature           | 💡 Description                                                                 |
+| -------------------- | ------------------------------------------------------------------------------ |
+| 🎯 Auto Apply        | Automatically applies to new jobs 24/7 in the background.                      |
+| 🧠 Smart Filtering   | Skips jobs that don’t match your resume and your custom filter settings.       |
+| 🚫 Company Blacklist | Blacklist specific companies (by default, your past employers are excluded).   |
+| 🧾 AI Reasoning      | View the AI's decision-making process for every job application.               |
+| 🔍 Custom Filters    | Filter jobs using keywords, location, remote preference, categories, and more. |
+| 📎 Show References   | Every answered question includes a reference from your resume or FAQ.          |
+| 🤖 On-Device AI      | Powered by on-device AI (via Ollama).                                          |
+| 📊 Progress Tracking | Saves application progress and tracks unseen FAQs.                             |
+| ⏭️ Skip Questions    | Skips optional questions.                                                      |
+| ⏸️ Pause/Resume      | Pause or resume the AI agent anytime.                                          |
 
 ## FAQ
 
