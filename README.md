@@ -10,7 +10,7 @@ _“Simp for one, you’re just thirsty. Flirt with all, you’re a king.”_
 
 JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for jobs on LinkedIn—automatically, 24/7. No OpenAI API key required.
 
-[![JobHuntr Demo](src/demo.gif)](https://file.notion.so/f/f/e5e10e17-8029-4564-ba10-37f344e3fc89/41d7bb54-f210-4885-b1df-d0856a156b7e/first-demo-added-blur-4k-music.mp4?table=block&id=1c5df946-1ad2-8062-a528-ef6dd8b00bd2&spaceId=e5e10e17-8029-4564-ba10-37f344e3fc89&expirationTimestamp=1743321600000&signature=Zvl-Pa10QR_titQGX6PxXtYVY9BH-S5OTNpFOcOHoYg)
+[![JobHuntr Demo](src/demo.gif)](https://youtu.be/dy_wrzVKwPw)
 
 ## Setup on Apple Silicon (M1 to M3)
 
