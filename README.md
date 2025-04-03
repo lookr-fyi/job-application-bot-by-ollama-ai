@@ -1,6 +1,12 @@
-_“Simp for one, you’re just thirsty. Flirt with all, you’re a king.”_
+<p align="center">
+<img src="src/logo-large.png" alt="JobHuntr Logo" width="100">
+</p>
 
-<p align="left">
+<p align="center">
+<i>“Simp for one, you’re just thirsty. Flirt with all, you’re a king.”</i>
+</p>
+
+<p align="center">
   <a href="https://github.com/lookr-fyi/homebrew-jobhuntr/releases/latest/download/JobHuntr.dmg">
     <img src="https://img.shields.io/badge/Download%20for-macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
   </a>
