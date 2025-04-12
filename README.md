@@ -12,6 +12,14 @@
   </a>
 </p>
 
+Latest Update: April 11, 2025
+
+- AI now saves all jobs to the “Queue” by default before submission
+- Replaced complex filtering options with a single question: “What jobs are you looking for?”
+- Added a criteria and resume matching table to the thinking process
+- Automatically pause application when user operated on the browser
+- Fixed several bugs from previous versions
+
 ## About JobHuntr.fyi
 
 JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for jobs on LinkedIn—automatically, 24/7. No OpenAI API key required.
@@ -36,24 +44,23 @@ JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for job
 
 5. **Start Application:** Once you’ve filled in all the required fields marked in red, you’ll be ready to start your first application. Enjoy!
 
-   ![Screenshot 2025-03-25 at 11.20.10 PM.png](https://img.notionusercontent.com/s3/prod-files-secure%2Fe5e10e17-8029-4564-ba10-37f344e3fc89%2F53ef5943-c42b-48d0-ae42-18d953bc8df9%2FScreenshot_2025-03-25_at_11.20.10_PM.png/size/w=800?exp=1743352346&sig=sIqapmZh2tstK2vWgUc5_Pfl0p20fXvrLiQCnn8Tg80&id=1c2df946-1ad2-8086-8a0c-d28a99d76dd5&table=block)
+   ![setup_page](src/setup_page.png)
 
 ## Features
 
-| ✅ Feature           | 💡 Description                                                                        | Free Plan | Premium Plan ($9.99/mo) |
-| -------------------- | ------------------------------------------------------------------------------------- | :-------: | :---------------------: |
-| 🎯 Auto Apply        | Automatically applies to new jobs 24/7 in the background.                             |    ✅     |           ✅            |
-| 🧠 Smart Filtering   | Skips jobs that don’t match your resume and custom filters.                           |    ✅     |           ✅            |
-| 🚫 Company Blacklist | Exclude specific companies from job applications. Defaults to your past employers.    |    ✅     |           ✅            |
-| 🔍 Custom Filters    | Filter jobs by keywords, location, remote preference, categories, and more.           |    ✅     |           ✅            |
-| 📎 Show References   | Every answered question is backed by content from your resume or FAQs.                |    ✅     |           ✅            |
-| 🧩 FAQ Merge         | Automatically merges similar unseen FAQs to reduce repetition and your workload.      |    ✅     |           ✅            |
-| 🤖 On-Device AI      | All AI runs locally via Ollama. Fast, secure, and private.                            |    ✅     |           ✅            |
-| 📊 Progress Tracking | Saves application history and tracks which FAQs you've seen or answered.              |    ✅     |           ✅            |
-| ⏭️ Skip Questions    | Automatically skips optional or non-critical application questions.                   |    ✅     |           ✅            |
-| ⏸️ Pause/Resume      | Start or stop the auto-apply agent at any time.                                       |    ✅     |           ✅            |
-| 🧾 AI Reasoning      | View the AI's step-by-step decision-making for each application.                      |    ❌     |           ✅            |
-| ⚡ Cloud AI          | Uses a faster cloud-based AI model with improved matching and answering capabilities. |    ❌     |           ✅            |
+| ✅ Feature              | 💡 Description                                                                        | Free Plan | Premium Plan ($9.99/mo) |
+| ----------------------- | ------------------------------------------------------------------------------------- | :-------: | :---------------------: |
+| 🎯 Auto Apply           | Automatically applies to new jobs 24/7 in the background.                             |    ✅     |           ✅            |
+| 🔄 Review before submit | Applications can be saved to the “Queue” before submission.                           |    ✅     |           ✅            |
+| 🧠 Smart Filtering      | Skips jobs that don’t match your resume and custom filters.                           |    ✅     |           ✅            |
+| 🚫 Company Blacklist    | Exclude specific companies from job applications. Defaults to your past employers.    |    ✅     |           ✅            |
+| 📎 Show References      | Every answered question is backed by content from your resume or FAQs.                |    ✅     |           ✅            |
+| 🤖 On-Device AI         | All AI runs locally via Ollama. Fast, secure, and private.                            |    ✅     |           ✅            |
+| 📊 Progress Tracking    | Saves application history and tracks which FAQs you've seen or answered.              |    ✅     |           ✅            |
+| ⏭️ Skip Questions       | Automatically skips optional or non-critical application questions.                   |    ✅     |           ✅            |
+| ⏸️ Pause/Resume         | Start or stop the auto-apply agent at any time.                                       |    ✅     |           ✅            |
+| 🧾 AI Reasoning         | View the AI's step-by-step decision-making for each application.                      |    ❌     |           ✅            |
+| ⚡ Cloud AI             | Uses a faster cloud-based AI model with improved matching and answering capabilities. |    ❌     |           ✅            |
 
 ## FAQ
 
@@ -81,9 +88,9 @@ JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for job
 
 - **Q: Why should I trust the AI’s filling?**
 
-  Each time the AI fills in a question, it carefully checks whether the information is available in your resume or FAQ. If not, the unseen questions are saved to your FAQ as 'unconfident,' and the current application is skipped.
+  By default, the AI saves all jobs to the “Queue” and marks them by confidence. The more questions you submit, the smarter it gets.
 
-  ![Screenshot 2025-03-25 at 11.43.24 PM.png](https://img.notionusercontent.com/s3/prod-files-secure%2Fe5e10e17-8029-4564-ba10-37f344e3fc89%2F38443147-c454-4e9c-a0a8-b2c5ce671772%2FScreenshot_2025-03-25_at_11.43.24_PM.png/size/w=800?exp=1743359590&sig=0GEmsVmYMPFOZ8YY0upDn6WGW-YL1NwncoxtuyUDfBQ&id=1c2df946-1ad2-800f-9a70-d3e4fe8503af&table=block)
+  ![queue](src/queue.png)
 
 - **Q: Why is my on-device AI getting stuck on a question?**
 
