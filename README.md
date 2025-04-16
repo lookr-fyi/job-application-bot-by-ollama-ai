@@ -32,15 +32,15 @@ JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for job
 2. **Download**: Get the latest version here: [Download Link](https://github.com/lookr-fyi/homebrew-jobhuntr/releases/latest/download/JobHuntr.dmg)
 3. **Install:** Drag and drop the app into your **/Applications** folder.
 
-   ![Screenshot 2025-03-15 at 1.09.05 PM.png](https://img.notionusercontent.com/s3/prod-files-secure%2Fe5e10e17-8029-4564-ba10-37f344e3fc89%2F50b9441b-1bef-4333-ab86-aec1845893a9%2FScreenshot_2025-03-15_at_1.09.05_PM.png/size/w=800?exp=1743352170&sig=I9NKXeNsa1_c3XACz0meJI4ZG2z4I8TmbEH-ZdNkL7M&id=1b7df946-1ad2-805e-b326-f4c63bf743c1&table=block)
+   ![installer_image](src/installer_image.png)
 
    - If it doesn’t appear in Launchpad, open it via **Finder**.
 
-     ![Screenshot 2025-03-25 at 2.22.27 PM.png](https://img.notionusercontent.com/s3/prod-files-secure%2Fe5e10e17-8029-4564-ba10-37f344e3fc89%2F2e5a06df-18f4-45da-be1b-19541ea18b02%2FScreenshot_2025-03-25_at_2.22.27_PM.png/size/w=800?exp=1743352273&sig=-fcJouwgFTSr79phjYNA0SCJYDrvo8IOfJe0HwjKWDA&id=1c1df946-1ad2-8018-9da0-e20b3e56069a&table=block)
+     ![installer_image](src/where_find_it.png)
 
 4. **Login:** Launch the app, enter your LinkedIn email, and click **“Open LinkedIn.”** Sign in to your LinkedIn account in the browser window that opens. Since Chromium doesn’t allow Google OAuth, Please use email to sign in instead of google. Once you're logged in, the browser will close automatically, and you'll be redirected to the Jobhuntr home page.
 
-   ![Screenshot 2025-03-25 at 8.50.18 PM.png](https://img.notionusercontent.com/s3/prod-files-secure%2Fe5e10e17-8029-4564-ba10-37f344e3fc89%2F296cbf7d-e24a-4340-9a66-0a0e85092d44%2FScreenshot_2025-03-25_at_8.50.18_PM.png/size/w=800?exp=1743352331&sig=LYlkdFni129j1QzXQOnUza3ZuNnWi7KsOMjkPaJeBDE&id=1c2df946-1ad2-8049-8ebf-d706b30374e7&table=block)
+   ![login_page](src/login.png)
 
 5. **Start Application:** Once you’ve filled in all the required fields marked in red, you’ll be ready to start your first application. Enjoy!
 
@@ -80,7 +80,7 @@ JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for job
 
   Go to the **History** tab and scroll all the way to the right. Click on **“Show Q&A”** to view the details of previously answered questions.
 
-  ![Screenshot 2025-03-25 at 2.37.46 PM.png](https://img.notionusercontent.com/s3/prod-files-secure%2Fe5e10e17-8029-4564-ba10-37f344e3fc89%2F446e540f-3e5c-49c6-b0af-fb193a425b6a%2F1d221135-a2b4-40a9-96cc-789cda7873f2.png/size/w=800?exp=1743352515&sig=dmUIQPlUDfnT37d2hpnqq6weFKbsA0dxJ2s_ZysQd5g&id=1c1df946-1ad2-80ee-9d13-daee3982a885&table=block)
+  ![history_page](src/history.png)
 
 - **Q: Will my Linkedin account be banned?**
 
