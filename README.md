@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <strong>
+    📊 From April 11–17, we reviewed <ins>7,358</ins> jobs and submitted <ins>366</ins> for our users.
+  </strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/lookr-fyi/homebrew-jobhuntr/releases/latest/download/JobHuntr.dmg">
     <img src="https://img.shields.io/badge/Download%20for-macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
   </a>
@@ -61,6 +67,12 @@ JobHuntr.fyi is a macOS desktop app that uses Ollama-powered AI to apply for job
 | ⏸️ Pause/Resume         | Start or stop the auto-apply agent at any time.                                       |    ✅     |           ✅            |
 | 🧾 AI Reasoning         | View the AI's step-by-step decision-making for each application.                      |    ❌     |           ✅            |
 | ⚡ Cloud AI             | Uses a faster cloud-based AI model with improved matching and answering capabilities. |    ❌     |           ✅            |
+
+## Support Us
+
+We’d really appreciate it if you could show your support by giving our repo a star. If you find it helpful, feel free to share it with your friends too—it would mean a lot to us! 😊
+
+![star_repo](src/star_repo.gif)
 
 ## FAQ
 
