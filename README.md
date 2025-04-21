@@ -30,31 +30,7 @@ Latest Update: April 20, 2025
 
 JobHuntr.fyi is an on-device AI bot that filters and applies for jobs with high personalization at scale.
 
-```mermaid
-graph TD
-    A["**[Search]**<br>Semantic job matching<br>with reasoning"] --> B["**[Personalize]**<br>Generate tailored answers<br>Cover letter PDF"]
-    B --> C{"**[Decide]**<br>Confident to apply?"}
-
-    C -- Yes --> D["**[Apply]**"]
-    C -- No --> E["**[Review]**<br>Save for review<br>Wait for confirmation<br>Learn from edits"]
-    E --> D
-    E --> F["**[Improve]**<br>Future answers"]
-    F --> B
-
-    D --> G["**[Follow Up]**<br>Personalized message<br>to hiring team"]
-
-    %% Style to increase box widths
-    style A width:250px
-    style B width:250px
-    style C width:180px
-    style D width:120px
-    style E width:250px
-    style F width:180px
-    style G width:220px
-
-
-
-```
+![JobHuntr Flowchart](src/flow_chart.png)
 
 ## Demo
 
