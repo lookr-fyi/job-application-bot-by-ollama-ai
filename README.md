@@ -16,7 +16,7 @@ Latest Update: April 20, 2025
 
 - [New Feature] Cover letter generation
 - [New Feature] Send a personalized note to the hiring team after applying
-- [Improvement] Support a new country - Australia
+- [Improvement] Support a new country - Australia, UK
 - [Improvement] Humanized page browsing behavior
 
 ## About JobHuntr.fyi
