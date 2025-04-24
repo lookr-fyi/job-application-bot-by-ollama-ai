@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<i>“What is most personal is most universal. - Carl Rogers”</i>
+<i>"Resume in. Interviews out — 24/7."</i>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Latest Update: April 20, 2025
   <a href="#star-us"><strong>Support Us</strong></a>
 </p>
 
-JobHuntr.fyi is an on-device AI bot that filters and applies for jobs with high personalization at scale.
+JobHuntr.fyi is an on-device AI bot that filters and applies for jobs with high personalization at scale. Quality first. No spam.
 
 ![JobHuntr Flowchart](src/flow_chart.png)
 
@@ -42,21 +42,21 @@ Click to view [Generated sample cover letter](src/sample_cover_letter.pdf)
 
 ## Features
 
-| ✅ Feature               | 💡 Description                                                                        | Free Plan | Premium Plan ($9.99/mo) |
-| ------------------------ | ------------------------------------------------------------------------------------- | :-------: | :---------------------: |
-| 🎯 Auto Apply            | Automatically applies to new jobs 24/7 in the background.                             |    ✅     |           ✅            |
-| 🔄 Review before submit  | Applications can be saved to the “Queue” before submission.                           |    ✅     |           ✅            |
-| 🧠 Smart Filtering       | Skips jobs that don’t match your resume and custom filters.                           |    ✅     |           ✅            |
-| 🚫 Company Blacklist     | Exclude specific companies from job applications. Defaults to your past employers.    |    ✅     |           ✅            |
-| 📎 Show References       | Every answered question is backed by content from your resume or FAQs.                |    ✅     |           ✅            |
-| 🤖 On-Device AI          | All AI runs locally via Ollama. Fast, secure, and private.                            |    ✅     |           ✅            |
-| 📊 Progress Tracking     | Saves application history and tracks which FAQs you've seen or answered.              |    ✅     |           ✅            |
-| ⏭️ Skip Questions        | Automatically skips optional or non-critical application questions.                   |    ✅     |           ✅            |
-| ⏸️ Pause/Resume          | Start or stop the auto-apply agent at any time.                                       |    ✅     |           ✅            |
-| 📄 Generate cover letter | Generate a personalized cover letter for all applications that require one.           |    ❌     |           ✅            |
-| 📧 DM to hiring team     | Send a personalized note to the hiring team after applying.                           |    ❌     |           ✅            |
-| 🧾 AI Reasoning          | View the AI's step-by-step decision-making for each application.                      |    ❌     |           ✅            |
-| ⚡ Cloud AI              | Uses a faster cloud-based AI model with improved matching and answering capabilities. |    ❌     |           ✅            |
+| ✅ Feature               | 💡 Description                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------- |
+| 🎯 Auto Apply            | Automatically applies to new jobs 24/7 in the background.                             |
+| 🔄 Review before submit  | Applications can be saved to the “Queue” before submission.                           |
+| 🧠 Smart Filtering       | Skips jobs that don’t match your resume and custom filters.                           |
+| 🚫 Company Blacklist     | Exclude specific companies from job applications. Defaults to your past employers.    |
+| 📎 Show References       | Every answered question is backed by content from your resume or FAQs.                |
+| 🤖 On-Device AI          | All AI runs locally via Ollama. Fast, secure, and private.                            |
+| 📊 Progress Tracking     | Saves application history and tracks which FAQs you've seen or answered.              |
+| ⏭️ Skip Questions        | Automatically skips optional or non-critical application questions.                   |
+| ⏸️ Pause/Resume          | Start or stop the auto-apply agent at any time.                                       |
+| 📄 Generate cover letter | Generate a personalized cover letter for all applications that require one.           |
+| 📧 DM to hiring team     | Send a personalized note to the hiring team after applying.                           |
+| 🧾 AI Reasoning          | View the AI's step-by-step decision-making for each application.                      |
+| ⚡ Cloud AI              | Uses a faster cloud-based AI model with improved matching and answering capabilities. |
 
 ## Star Us
 
