@@ -7,17 +7,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lookr-fyi/homebrew-jobhuntr/releases/latest/download/JobHuntr.dmg">
+  <a href="https://jobhuntr.fyi/download/macos">
     <img src="https://img.shields.io/badge/Download%20for-macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
   </a>
 </p>
+<p align="center">
+  <a href="https://jobhuntr.fyi/download/windows">
+    <img src="https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
+  </a>
+</p>
 
-Latest Update: April 20, 2025
+Latest Update: April 30, 2025
 
-- [New Feature] Cover letter generation
-- [New Feature] Send a personalized note to the hiring team after applying
-- [Improvement] Support a new country - Australia, UK
-- [Improvement] Humanized page browsing behavior
+- [New Feature] Windows beta release
+- [New Feature] Allow new users to skip chromium installation if chrome is already installed
 
 ## About JobHuntr.fyi
 
@@ -45,8 +48,8 @@ Click to view [Generated sample cover letter](src/sample_cover_letter.pdf)
 | ✅ Feature               | 💡 Description                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------- |
 | 🎯 Auto Apply            | Automatically applies to new jobs 24/7 in the background.                             |
-| 🔄 Review before submit  | Applications can be saved to the “Queue” before submission.                           |
-| 🧠 Smart Filtering       | Skips jobs that don’t match your resume and custom filters.                           |
+| 🔄 Review before submit  | Applications can be saved to the "Queue" before submission.                           |
+| 🧠 Smart Filtering       | Skips jobs that don't match your resume and custom filters.                           |
 | 🚫 Company Blacklist     | Exclude specific companies from job applications. Defaults to your past employers.    |
 | 📎 Show References       | Every answered question is backed by content from your resume or FAQs.                |
 | 🤖 On-Device AI          | All AI runs locally via Ollama. Fast, secure, and private.                            |
@@ -66,6 +69,6 @@ We need your help to increase the visibility of JobHuntr.fyi and enable more job
 
 ## Contact
 
-We’d love your feedback!
+We'd love your feedback!
 
 📧 Email: hi@lookr.fyi
