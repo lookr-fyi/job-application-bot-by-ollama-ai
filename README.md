@@ -6,14 +6,13 @@
 <i>"Resume in. Interviews out — 100% Hand-free."</i>
 </p>
 
+<!-- add spacing between the two images -->
 <p align="center">
-  <a href="https://jobhuntr.fyi/download/macos">
-    <img src="https://img.shields.io/badge/Download%20for-macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
+  <a href="https://jobhuntr.fyi/download/macos" style="margin-right: 20px;">
+    <img src="src/mac_download.png" alt="Download for macOS" width="200">
   </a>
-</p>
-<p align="center">
-  <a href="https://jobhuntr.fyi/download/windows">
-    <img src="https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
+  <a href="https://jobhuntr.fyi/download/windows" style="margin-left: 20px;">
+    <img src="src/windows_download.png" alt="Download for Windows" width="200">
   </a>
 </p>
 
