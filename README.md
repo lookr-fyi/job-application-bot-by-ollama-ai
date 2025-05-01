@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<i>"Resume in. Interviews out — 24/7."</i>
+<i>"Resume in. Interviews out — 100% Hand-free."</i>
 </p>
 
 <p align="center">
