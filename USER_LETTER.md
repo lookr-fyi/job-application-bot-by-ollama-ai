@@ -16,7 +16,7 @@ JobHuntr automates job applications on first-party sites like LinkedIn. We donâ€
 
 ## Feature Comparison
 
-Here are the alternative tools we compared with:
+Here are the alternative tools we compared with, and we encourage you to explore some of them to maximize your job application efficiency and chance of getting interviews:
 
 | Feature / Tool                           | **JobHuntr** | **Simplify** | **LazyApply**  | **AIHawk**     | **Huntr** | **Jobright** |
 | ---------------------------------------- | ------------ | ------------ | -------------- | -------------- | --------- | ------------ |
