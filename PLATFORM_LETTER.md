@@ -2,7 +2,7 @@
 
 Dear Career Platform Partners,
 
-We are reaching out regarding JobHuntr.fyi, a tool designed to enhance the job-seeking experience while maintaining the integrity of your platforms. We believe in creating solutions that benefit all stakeholders in the hiring ecosystem - job seekers, employers, and platforms alike.
+We are writing to you regarding JobHuntr.fyi, a tool designed to enhance the job-seeking experience while maintaining the integrity of your platforms. We believe in creating solutions that benefit all stakeholders in the hiring ecosystem - job seekers, employers, and platforms alike.
 
 ## Our Approach
 
@@ -10,11 +10,12 @@ JobHuntr.fyi is built with a fundamental principle: help job seekers focus on wh
 
 ## Commitment to Responsible Automation
 
-We have implemented several measures to ensure responsible use:
+Unlike other automation tools that rely on massive offline web scraping, JobHuntr takes a fundamentally different approach. We have implemented several measures to ensure responsible use:
 
+- **Native Platform Integration**: We utilize your platform's built-in search features exactly as a human user would, but with an AI-powered semantic filtering layer.
+- **No Data Harvesting**: We don't mass scrape or store platform data beyond what's necessary for individual user applications
 - **Rate Limiting**: Built-in daily application limits to prevent platform flooding
-- **Quality Filters**: Smart matching algorithms to ensure applications are only sent to relevant positions
-- **Human Oversight**: All applications can be reviewed before submission
+- **Human Oversight**: All applications can be reviewed by candidates before submission
 - **Platform Compliance**: Strict adherence to platform rules and guidelines
 - **Anti-Spam Measures**: Prevention of duplicate applications and automated detection of already-applied positions
 
