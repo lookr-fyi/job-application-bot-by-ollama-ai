@@ -8,7 +8,7 @@
 
 <!-- add spacing between the two images -->
 <p align="center">
-  <a href="https://jobhuntr.fyi/download/macos" style="margin-right: 20px;">
+  <a href="https://jobhuntr.fyi/download/macos" style="margin-right: 20px;" onclick="window.open('./SETUP.md', '_blank');">
     <img src="src/mac_download.png" alt="Download for macOS" width="200">
   </a>
   <a href="https://jobhuntr.fyi/download/windows" style="margin-left: 20px;">
