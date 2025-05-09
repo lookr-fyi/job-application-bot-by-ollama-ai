@@ -24,7 +24,8 @@ Latest Update: April 30, 2025
 ## About JobHuntr.fyi
 
 <p align="left">
-  <a href="./SETUP.md"><strong> Setup Tutorial </strong></a> •
+  <a href="./MAC_SETUP.md"><strong> MacOS Tutorial </strong></a> •
+  <a href="./WIN_SETUP.md"><strong> Windows Tutorial </strong></a> •
   <a href="./FAQ.md"><strong> FAQ </strong></a> •
   <a href="./USER_LETTER.md"><strong>User Letter</strong></a> •
   <a href="./PLATFORM_LETTER.md"><strong>Platform Letter</strong></a>
