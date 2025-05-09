@@ -8,7 +8,7 @@
 
 <!-- add spacing between the two images -->
 <p align="center">
-  <a href="https://jobhuntr.fyi/download/macos" style="margin-right: 20px;" onclick="window.open('./SETUP.md', '_blank');">
+  <a href="https://jobhuntr.fyi/download/macos" style="margin-right: 20px;">
     <img src="src/mac_download.png" alt="Download for macOS" width="200">
   </a>
   <a href="https://jobhuntr.fyi/download/windows" style="margin-left: 20px;">
@@ -16,10 +16,13 @@
   </a>
 </p>
 
-Latest Update: April 30, 2025
+Latest Update: May 8, 2025
 
-- [New Feature] Windows beta release
-- [New Feature] Allow new users to skip chromium installation if chrome is already installed
+- [New Feature] Introduced an invitation system allowing users to get more premium free trials.
+- [UX Improvement] Added a video tutorial to guide first-time users through setup.
+- [UI Enhancement] Improved display of dropdown and multi-select questions in the FAQ and application queue.
+- [AI Enhancement] Increased the accuracy of FAQ autofill responses.
+- [Bug Fix] Resolved an issue where question text failed to extract from the application page in approximately 3% of cases.
 
 ## About JobHuntr.fyi
 
