@@ -32,7 +32,8 @@ Latest Update: May 8, 2025
   <a href="./FAQ.md"><strong> FAQ </strong></a> •
   <a href="./USER_LETTER.md"><strong>User Letter</strong></a> •
   <a href="./PLATFORM_LETTER.md"><strong>Platform Letter</strong></a> •
-  <a href="./PRICING.md"><strong>Pricing</strong></a>
+  <a href="./PRICING.md"><strong>Pricing</strong></a> •
+  <a href="https://www.tiktok.com/@yuqili657"><strong>TikTok</strong></a>
 </p>
 
 JobHuntr.fyi is an on-device AI bot that filters and applies for jobs with high personalization at scale. Quality first. No spam.
