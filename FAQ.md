@@ -32,6 +32,51 @@
 
   If you choose a model larger than 4B, some personal laptops may struggle to run it efficiently or experience significant slowdowns—especially when processing long input contexts, such as resumes. The initial response time can be particularly slow, but performance typically improves as the model continues running.
 
+- **Q: Which countries are supported?**
+
+  Currently, JobHuntr supports job searches in the following countries:
+  - United States
+  - Canada
+  - Australia
+  - United Kingdom
+
+- **Q: Which cities are supported?**
+
+  JobHuntr supports major cities in each country:
+
+  **United States:**
+  - New York, NY
+  - Houston, TX
+  - Chicago, IL
+  - Atlanta, GA
+  - Los Angeles, CA
+  - Dallas, TX
+  - Austin, TX
+  - Boston, MA
+  - Seattle, WA
+  - Charlotte, NC
+  - Portland, OR
+  - San Francisco, CA
+
+  **Canada:**
+  - Toronto, ON
+  - Vancouver, BC
+  - Montreal, QC
+  - Calgary, AB
+  - Ottawa, ON
+
+  **Australia:**
+  - Sydney, NSW
+  - Melbourne, VIC
+  - Brisbane, QLD
+  - Perth, WA
+
+  **United Kingdom:**
+  - London
+  - Birmingham
+  - Manchester
+  - Liverpool
+
 - **Q: Will it automatically follow all companies that I applied?**
 
   No, it will uncheck the follow option before submission by default.
