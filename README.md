@@ -16,13 +16,10 @@
   </a>
 </p>
 
-Latest Update: May 8, 2025
+Latest Update: May 25, 2025
 
-- [New Feature] Introduced an invitation system allowing users to get more premium free trials.
-- [UX Improvement] Added a video tutorial to guide first-time users through setup.
-- [UI Enhancement] Improved display of dropdown and multi-select questions in the FAQ and application queue.
-- [AI Enhancement] Increased the accuracy of FAQ autofill responses.
-- [Bug Fix] Resolved an issue where question text failed to extract from the application page in approximately 3% of cases.
+- [New Feature]: Integrated ATS scoring into the job evaluation process and job submission queue
+- [UX Improvement]: Enhanced job matching based on your prompt in “What jobs are you looking for?”
 
 ## About JobHuntr.fyi
 
