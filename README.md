@@ -19,6 +19,7 @@
 Latest Update: May 25, 2025
 
 - [New Feature]: Integrated ATS scoring into the job evaluation process and job submission queue. ([TikTok Demo](https://www.tiktok.com/@yuqili657/video/7508559462077041926))
+- [New Feature]: Allowed to sort history table columns from A to Z. ([TikTok Demo](https://www.tiktok.com/@yuqili657/video/7510074106956532998))
 - [UX Improvement]: Enhanced job matching based on your prompt in “What jobs are you looking for?”
 
 ## About JobHuntr.fyi
