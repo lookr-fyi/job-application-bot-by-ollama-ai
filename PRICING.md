@@ -1,5 +1,9 @@
 # Pricing Plans
 
+You can subscribe by clicking the subscribe button located on the top left corner of the app:
+
+![Subscribe](src/where_to_subscribe.png)
+
 ## Pricing
 
 | Plan    | Price | Billing Cycle |
