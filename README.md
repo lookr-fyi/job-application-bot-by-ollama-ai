@@ -16,11 +16,10 @@
   </a>
 </p>
 
-Latest Update: May 25, 2025
+Latest Update: June 16, 2025 (v1.8.0)
 
-- [New Feature]: Integrated ATS scoring into the job evaluation process and job submission queue. ([TikTok Demo](https://www.tiktok.com/@yuqili657/video/7508559462077041926))
-- [New Feature]: Allowed to sort history table columns from A to Z. ([TikTok Demo](https://www.tiktok.com/@yuqili657/video/7510074106956532998))
-- [UX Improvement]: Enhanced job matching based on your prompt in “What jobs are you looking for?”
+- [New Feature]: Generate ATS-optimized resume for each job application.
+- [New Feature]: Increased Premium user quota to 35-45 applications per day.
 
 ## About JobHuntr.fyi
 
@@ -50,8 +49,11 @@ Click to view [Generated sample cover letter](src/sample_cover_letter.pdf)
 
 | ✅ Feature               | 💡 Description                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------- |
+| 📋 Generate ATS Resume   | Generate ATS-optimized resume for each job application.                               |
+| 📄 Generate cover letter | Generate a personalized cover letter for all applications that require one.           |
+| 🔄 Submit high quality   | Submit high quality answers, no spam.                                                 |
+| 🎓 Iterative learning    | Usually need review around 10, then you can let it free run.                          |
 | 🎯 Auto Apply            | Automatically applies to new jobs 24/7 in the background.                             |
-| 🔄 Review before submit  | Applications can be saved to the "Queue" before submission.                           |
 | 🧠 Smart Filtering       | Skips jobs that don't match your resume and custom filters.                           |
 | 🚫 Company Blacklist     | Exclude specific companies from job applications. Defaults to your past employers.    |
 | 📎 Show References       | Every answered question is backed by content from your resume or FAQs.                |
@@ -59,7 +61,6 @@ Click to view [Generated sample cover letter](src/sample_cover_letter.pdf)
 | 📊 Progress Tracking     | Saves application history and tracks which FAQs you've seen or answered.              |
 | ⏭️ Skip Questions        | Automatically skips optional or non-critical application questions.                   |
 | ⏸️ Pause/Resume          | Start or stop the auto-apply agent at any time.                                       |
-| 📄 Generate cover letter | Generate a personalized cover letter for all applications that require one.           |
 | 📧 DM to hiring team     | Send a personalized note to the hiring team after applying.                           |
 | 🧾 AI Reasoning          | View the AI's step-by-step decision-making for each application.                      |
 | ⚡ Cloud AI              | Uses a faster cloud-based AI model with improved matching and answering capabilities. |

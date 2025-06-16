@@ -14,19 +14,16 @@ You can subscribe by clicking the subscribe button located on the top left corne
 
 Before upgrading to Premium, consider these options to maximize your free usage:
 
-1. **Try Ollama Models First**: Test our Ollama models to evaluate if they meet your application quality requirements.
-
-2. **Referral Program**: Share your invitation code with friends to earn additional free trials:
-   - Each successful referral earns you 100 free trials
-   - No limit on the number of referrals
-   - More referrals = more free trials
+**Try Ollama Models First**: Test our Ollama models to evaluate if they meet your application quality requirements.
 
 ## Feature Comparison
 
 | Feature                 | Premium                           | Free     |
 | ----------------------- | --------------------------------- | -------- |
-| AI Model                | GPT-4o                            | Ollama   |
+| AI Model                | GPT-4o + Claude 4 Sonnet          | Ollama   |
 | Activity Logs           | Detailed with AI thinking process | Basic    |
+| ATS Resume Generation   | Automated per application         | Manual   |
+| Daily quota             | 35-45 applications                | 10       |
 | Cover Letter Generation | Automated per application         | Manual   |
 | Follow-up Connections   | Automated with personalized notes | Manual   |
 | Application Quality     | Advanced                          | Standard |
