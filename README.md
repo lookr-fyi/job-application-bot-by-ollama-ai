@@ -33,6 +33,16 @@ Latest Update: June 16, 2025 (v1.8.0)
   <a href="https://www.tiktok.com/@yuqili657"><strong>TikTok</strong></a>
 </p>
 
+<!-- slack channel with logo from src/slack.png -->
+<p align="left">
+  <a href="https://join.slack.com/t/jobhuntrfyi/shared_invite/zt-37b16bo2f-aYwEadlFMHPHYAycDgCERA" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+    <img src="src/slack-logo.png" alt="Join our Slack Community" width="20" style="vertical-align: middle;">
+    <strong>Join our Slack Community</strong>
+  </a>
+</p>
+
+
+
 JobHuntr.fyi is an on-device AI bot that filters and applies for jobs with high personalization at scale. Quality first. No spam.
 
 ![JobHuntr Flowchart](src/flow_chart.png)
