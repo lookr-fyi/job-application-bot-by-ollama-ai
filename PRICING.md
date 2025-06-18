@@ -23,7 +23,7 @@ Before upgrading to Premium, consider these options to maximize your free usage:
 | AI Model                | GPT-4o + Claude 4 Sonnet          | Ollama   |
 | Activity Logs           | Detailed with AI thinking process | Basic    |
 | ATS Resume Generation   | Automated per application         | Manual   |
-| Daily quota             | 35-45 applications                | 10       |
+| Daily quota             | 35-45 applications                | 20       |
 | Cover Letter Generation | Automated per application         | Manual   |
 | Follow-up Connections   | Automated with personalized notes | Manual   |
 | Application Quality     | Advanced                          | Standard |
