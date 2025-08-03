@@ -16,10 +16,9 @@
   </a>
 </p>
 
-Latest Update: June 16, 2025 (v1.8.0)
+Latest Update: July 30, 2025 (v1.8.0)
 
-- [New Feature]: Generate ATS-optimized resume for each job application.
-- [New Feature]: Increased Premium user quota to 35-45 applications per day.
+- [New Feature]: Added new countries support in Europe.
 
 ## About JobHuntr.fyi
 
@@ -42,8 +41,7 @@ Latest Update: June 16, 2025 (v1.8.0)
 </p>
 
 
-
-JobHuntr.fyi is an on-device AI bot that filters and applies for jobs with high personalization at scale. Quality first. No spam.
+Stepping into a new career can be extremely exhausting, but it doesn't have to be. JobHuntr is built to be a reliable and personalized AI agent, helping you get into the latest opportunities while you focus on what matters most. We put quality first—no BS, no spam.
 
 ![JobHuntr Flowchart](src/flow_chart.png)
 

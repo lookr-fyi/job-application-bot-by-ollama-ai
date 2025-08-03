@@ -6,6 +6,9 @@
 
 3. **Install**: 
    - Run the downloaded `JobHuntr-Setup.exe` file
+   - If you see a warning about "Windows protected your PC", click "More info" and then "Run anyway" (our apologies for the inconvenience!)
+   <!-- add a screenshot of the warning -->
+   ![Windows Warning](src/windows_unknown_publisher.png)
    - Follow the installation wizard
    - The application will be installed in your default Programs directory
 
