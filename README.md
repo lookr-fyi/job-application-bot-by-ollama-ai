@@ -8,7 +8,7 @@
 
 <!-- add spacing between the two images -->
 <p align="center">
-  <a href="https://jobhuntr.short.gy/download/github/macos" style="margin-right: 20px;">
+  <a href="https://github.com/lookr-fyi/job-application-bot-by-ollama-ai/releases/download/v2.0.0/JobHuntr-2.0.0-arm64.dmg" style="margin-right: 20px;">
     <img src="src/mac_download.png" alt="Download for macOS" width="200">
   </a>
   <a href="https://jobhuntr.short.gy/download/github/windows" style="margin-left: 20px;">
