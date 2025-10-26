@@ -16,9 +16,9 @@
   </a>
 </p>
 
-Latest Update: October 26, 2024 (v2.0.0+)
+Latest Update: October 26, 2025 (v2.0.0+)
 
-**This is a HUGE Update**
+**This is a HUGE Update on MacOS version**
 
 - Completely rebuilt the whole app with better UI
 - Added staffing company detection to avoid fake job posting and spamming
