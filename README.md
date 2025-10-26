@@ -18,14 +18,14 @@
 
 Latest Update: October 26, 2025 (v2.0.0+)
 
-**This is a HUGE Update on MacOS version**
+**Major Release - Significant Updates to MacOS Version**
 
-- Completely rebuilt the whole app with better UI
-- Added staffing company detection to avoid fake job posting and spamming
-- Removed on-device AI support since its experience is so bad
-- Added comprehensive outreach, not just hiring manager, but peer and recruiter in the applied companies
-- Added a job tracker to track all your progress
-- Open coach account to allow you easily share your job application progress to your assigned coaches
+- Complete application rebuild with enhanced user interface
+- Staffing company detection to filter out illegitimate job postings
+- Discontinued on-device AI in favor of cloud-based AI
+- Enhanced outreach to hiring managers, peers, and recruiters
+- Comprehensive job tracker to monitor application progress
+- Coach account feature for sharing progress with career coaches
 
 ## About JobHuntr.fyi
 
