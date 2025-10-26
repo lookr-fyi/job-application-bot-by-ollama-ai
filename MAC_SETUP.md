@@ -1,7 +1,7 @@
 ## Setup on Apple Silicon (M1 to M3)
 
 1. **System Language**: Please make sure your macOS system language is set to **English**. (This ensures LinkedIn opens in English.)
-2. **Download**: Get the latest version here: [Download Link](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai/releases/download/v2.0.0/JobHuntr-2.0.0-arm64.dmg)
+2. **Download**: Get the latest version here: [Download Link](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai/releases/latest/download/JobHuntr-arm64.dmg)
 3. **Install:** Drag and drop the app into your **/Applications** folder.
 
    ![installer_image](src/installer_image.png)
