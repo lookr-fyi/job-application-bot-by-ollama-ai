@@ -16,9 +16,16 @@
   </a>
 </p>
 
-Latest Update: July 30, 2025 (v1.8.0)
+Latest Update: October 26, 2024 (v2.0.0+)
 
-- [New Feature]: Added new countries support in Europe.
+**This is a HUGE Update**
+
+- Completely rebuilt the whole app with better UI
+- Added staffing company detection to avoid fake job posting and spamming
+- Removed on-device AI support since its experience is so bad
+- Added comprehensive outreach, not just hiring manager, but peer and recruiter in the applied companies
+- Added a job tracker to track all your progress
+- Open coach account to allow you easily share your job application progress to your assigned coaches
 
 ## About JobHuntr.fyi
 
@@ -55,23 +62,23 @@ Click to view [Generated sample cover letter](src/sample_cover_letter.pdf)
 
 ## Features
 
-| ✅ Feature               | 💡 Description                                                                        |
+| Feature               | Description                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------- |
-| 📋 Generate ATS Resume   | Generate ATS-optimized resume for each job application.                               |
-| 📄 Generate cover letter | Generate a personalized cover letter for all applications that require one.           |
-| 🔄 Submit high quality   | Submit high quality answers, no spam.                                                 |
-| 🎓 Iterative learning    | Usually need review around 10, then you can let it free run.                          |
-| 🎯 Auto Apply            | Automatically applies to new jobs 24/7 in the background.                             |
-| 🧠 Smart Filtering       | Skips jobs that don't match your resume and custom filters.                           |
-| 🚫 Company Blacklist     | Exclude specific companies from job applications. Defaults to your past employers.    |
-| 📎 Show References       | Every answered question is backed by content from your resume or FAQs.                |
-| 🤖 On-Device AI          | All AI runs locally via Ollama. Fast, secure, and private.                            |
-| 📊 Progress Tracking     | Saves application history and tracks which FAQs you've seen or answered.              |
-| ⏭️ Skip Questions        | Automatically skips optional or non-critical application questions.                   |
-| ⏸️ Pause/Resume          | Start or stop the auto-apply agent at any time.                                       |
-| 📧 DM to hiring team     | Send a personalized note to the hiring team after applying.                           |
-| 🧾 AI Reasoning          | View the AI's step-by-step decision-making for each application.                      |
-| ⚡ Cloud AI              | Uses a faster cloud-based AI model with improved matching and answering capabilities. |
+| Generate ATS Resume   | Generate ATS-optimized resume for each job application.                               |
+| Generate cover letter | Generate a personalized cover letter for all applications that require one.           |
+| Submit high quality   | Submit high quality answers, no spam.                                                 |
+| Iterative learning    | Usually need review around 10, then you can let it free run.                          |
+| Auto Apply            | Automatically applies to new jobs 24/7 in the background.                             |
+| Smart Filtering       | Skips jobs that don't match your resume and custom filters.                           |
+| Company Blacklist     | Exclude specific companies from job applications. Defaults to your past employers.    |
+| Show References       | Every answered question is backed by content from your resume or FAQs.                |
+| Job Tracker     | Track all your job applications and their status in one place.              |
+| Progress Tracking     | Saves application history and tracks which FAQs you've seen or answered.              |
+| Skip Questions        | Automatically skips optional or non-critical application questions.                   |
+| Pause/Resume          | Start or stop the auto-apply agent at any time.                                       |
+| Outreach to company     | Send personalized messages to hiring managers, peers, and recruiters in the company after applying.                           |
+| AI Reasoning          | View the AI's step-by-step decision-making for each application.                      |
+| Cloud AI              | Uses a faster cloud-based AI model with improved matching and answering capabilities. |
 
 ## Star Us
 
