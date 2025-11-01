@@ -11,7 +11,7 @@
   <a href="https://github.com/lookr-fyi/job-application-bot-by-ollama-ai/releases/latest/download/JobHuntr-arm64.dmg" style="margin-right: 20px;">
     <img src="src/mac_download.png" alt="Download for macOS" width="200">
   </a>
-  <a href="https://jobhuntr.short.gy/download/github/windows" style="margin-left: 20px;">
+  <a href="https://github.com/lookr-fyi/job-application-bot-by-ollama-ai/releases/latest/download/JobHuntr-x64.exe" style="margin-left: 20px;">
     <img src="src/windows_download.png" alt="Download for Windows" width="200">
   </a>
 </p>
