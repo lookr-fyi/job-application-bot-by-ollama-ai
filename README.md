@@ -16,9 +16,9 @@
   </a>
 </p>
 
-Latest Update: October 26, 2025 (v2.0.0+)
+Latest Update: October 31, 2025 (v2.0.3)
 
-**Major Release - Significant Updates to MacOS Version**
+**Major Release - Significant Updates to MacOS and Windows Versions**
 
 - Complete application rebuild with enhanced user interface
 - Staffing company detection to filter out illegitimate job postings
