@@ -16,16 +16,14 @@
   </a>
 </p>
 
-Latest Update: October 31, 2025 (v2.0.3)
+Latest Update: November 9, 2025 (v2.2.0)
 
 **Major Release - Significant Updates to MacOS and Windows Versions**
 
-- Complete application rebuild with enhanced user interface
-- Staffing company detection to filter out illegitimate job postings
-- Discontinued on-device AI in favor of cloud-based AI
-- Enhanced outreach to hiring managers, peers, and recruiters
-- Comprehensive job tracker to monitor application progress
-- Coach account feature for sharing progress with career coaches
+- Added Indeed, ZipRecruiter, Glassdoor, and Dice support to keep your pipeline moving without hopping between tabs
+- New overview home page that summarizes your weekly activity, open workflows, and stalled applications in one glance
+- Rebuilt AI browser stack that rides directly inside your Chrome profile for better stealth and less frequent bot detection
+- Added a button to help you close the app once you got an offer :D
 
 ## About JobHuntr.fyi
 
