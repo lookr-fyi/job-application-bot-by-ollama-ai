@@ -16,9 +16,12 @@
   </a>
 </p>
 
-Latest Update: November 9, 2025 (v2.2.0)
+Latest Update: November 13, 2025 (v2.5.0)
+- Introduced an autonomous agent that enables you to start job searches from any URL, automatically generates customized ATS-optimized resumes, and records applications in the job tracker.
+- Resolved various bugs and enhanced the overall user experience.
 
-**Major Release - Significant Updates to MacOS and Windows Versions**
+
+Latest Update: November 9, 2025 (v2.2.0)
 
 - Added Indeed, ZipRecruiter, Glassdoor, and Dice support to keep your pipeline moving without hopping between tabs
 - New overview home page that summarizes your weekly activity, open workflows, and stalled applications in one glance
