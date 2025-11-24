@@ -16,13 +16,15 @@
   </a>
 </p>
 
-Latest Update: November 13, 2025 (v2.5.0)
+Latest Update: November 23, 2025 (v2.7.1)
+- Introduced Infinite Hunt so your bot scouts fresh roles around the clock.
+- Infinite Hunt can chain multiple agent runs for longer workflows.
+- Infinite Hunt automatically tunes its configuration after every run to surface stronger leads.
+
+
+November 13, 2025 (v2.5.0)
 - Introduced an autonomous agent that enables you to start job searches from any URL, automatically generates customized ATS-optimized resumes, and records applications in the job tracker.
 - Resolved various bugs and enhanced the overall user experience.
-
-
-Latest Update: November 9, 2025 (v2.2.0)
-
 - Added Indeed, ZipRecruiter, Glassdoor, and Dice support to keep your pipeline moving without hopping between tabs
 - New overview home page that summarizes your weekly activity, open workflows, and stalled applications in one glance
 - Rebuilt AI browser stack that rides directly inside your Chrome profile for better stealth and less frequent bot detection
