@@ -16,11 +16,19 @@
   </a>
 </p>
 
-Latest Update: November 23, 2025 (v2.7.1)
+Latest Update: December 8, 2025 (v3.0.0)
+- More Robust Infinite Hunt: Improved stability, smoother automation, and better long-run behavior.
+- 4 New Job Boards: Added based on community requests — thank you for the feedback!
+- AI Search on Company Career Sites: You can now search company career pages directly with AI. We might be the first in the market doing this — happy to be challenged :) Previously you needed your own LLM token for this feature; now it's fully covered by us.
+
+December 3, 2025 (v2.8.0)
+- D.A.M.N Mode (Done Applying, Market Nonsense): Run JobHuntr in headless mode so your browser won't disturb your workflow — especially useful for Mac users.
+- Community Job Board: See jobs discovered by other JobHuntr users within the last 24 hours, so you always catch the newest postings first.
+
+November 23, 2025 (v2.7.1)
 - Introduced Infinite Hunt so your bot scouts fresh roles around the clock.
 - Infinite Hunt can chain multiple agent runs for longer workflows.
 - Infinite Hunt automatically tunes its configuration after every run to surface stronger leads.
-
 
 November 13, 2025 (v2.5.0)
 - Introduced an autonomous agent that enables you to start job searches from any URL, automatically generates customized ATS-optimized resumes, and records applications in the job tracker.
