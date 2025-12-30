@@ -76,7 +76,7 @@ Stepping into a new career can be extremely exhausting, but it doesn't have to b
 
 <!-- sample cover letter -->
 
-Click to view [Generated sample cover letter](src/sample_cover_letter.pdf)
+Click to watch our demo video: [JobHuntr Demo](https://www.youtube.com/watch?v=u5ETx8XXhYs)
 
 ## Features
 
