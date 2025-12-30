@@ -16,7 +16,14 @@
   </a>
 </p>
 
-Latest Update: December 8, 2025 (v3.0.0)
+Latest Update: December 30, 2025 (v3.2.0)
+- Optimized company website search for faster and more reliable performance across career pages.
+- Company Career Page Apply: JobHuntr can now apply and submit resumes on any website across the internet, making it the first agent with truly universal job applications.
+- New Starter Plan: Starting at $9.99 for a low-friction way to get started immediately.
+- New Gigs feature: Short-term opportunities with third-party partners, with payment within one week. More partners coming soon.
+- As always, thank you for trusting us. Hope you are deleting JobHuntr soon
+
+December 8, 2025 (v3.0.0)
 - More Robust Infinite Hunt: Improved stability, smoother automation, and better long-run behavior.
 - 4 New Job Boards: Added based on community requests — thank you for the feedback!
 - AI Search on Company Career Sites: You can now search company career pages directly with AI. We might be the first in the market doing this — happy to be challenged :) Previously you needed your own LLM token for this feature; now it's fully covered by us.
@@ -65,7 +72,7 @@ Stepping into a new career can be extremely exhausting, but it doesn't have to b
 
 ## Demo
 
-[![JobHuntr Demo](src/demo.gif)](https://youtu.be/dy_wrzVKwPw)
+[![JobHuntr Demo](https://img.youtube.com/vi/u5ETx8XXhYs/maxresdefault.jpg)](https://www.youtube.com/watch?v=u5ETx8XXhYs)
 
 <!-- sample cover letter -->
 
